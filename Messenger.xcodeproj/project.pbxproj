@@ -61,8 +61,6 @@
 				FA337D8F278E890A0063819D /* Models */,
 				FA337D8E278E88FC0063819D /* Views */,
 				FA337D8D278E88DA0063819D /* Controllers */,
-				FA337D79278E88500063819D /* AppDelegate.swift */,
-				FA337D7B278E88500063819D /* SceneDelegate.swift */,
 				FA337D7D278E88500063819D /* ViewController.swift */,
 				FA337D7F278E88500063819D /* Main.storyboard */,
 				FA337D82278E88550063819D /* Assets.xcassets */,
@@ -103,6 +101,8 @@
 		FA337D91278EBF970063819D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FA337D79278E88500063819D /* AppDelegate.swift */,
+				FA337D7B278E88500063819D /* SceneDelegate.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
