@@ -56,6 +56,11 @@
 		FA337D78278E88500063819D /* Messenger */ = {
 			isa = PBXGroup;
 			children = (
+				FA337D91278EBF970063819D /* Resources */,
+				FA337D90278EBF8A0063819D /* ViewModels */,
+				FA337D8F278E890A0063819D /* Models */,
+				FA337D8E278E88FC0063819D /* Views */,
+				FA337D8D278E88DA0063819D /* Controllers */,
 				FA337D79278E88500063819D /* AppDelegate.swift */,
 				FA337D7B278E88500063819D /* SceneDelegate.swift */,
 				FA337D7D278E88500063819D /* ViewController.swift */,
@@ -65,6 +70,41 @@
 				FA337D87278E88550063819D /* Info.plist */,
 			);
 			path = Messenger;
+			sourceTree = "<group>";
+		};
+		FA337D8D278E88DA0063819D /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		FA337D8E278E88FC0063819D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FA337D8F278E890A0063819D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FA337D90278EBF8A0063819D /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		FA337D91278EBF970063819D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
